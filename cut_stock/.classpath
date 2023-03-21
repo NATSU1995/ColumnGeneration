@@ -2,8 +2,8 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="data"/>
 	<classpathentry kind="lib" path="C:/eclipse_workspace/Thinking_in_Java4/net.mindview.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/IBM/ILOG/CPLEX_Studio1263/cplex/lib/cplex.jar"/>
-	<classpathentry kind="lib" path="D:/Program Files/IBM/ILOG/CPLEX_Studio_Community129/cplex/lib/cplex.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
